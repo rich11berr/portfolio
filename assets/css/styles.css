@@ -446,13 +446,13 @@ img {
 }
 
 .skills__html {
-    width: 90%;
+    width: 95%;
 }
 .skills__css {
-    width: 75%;
+    width: 95%;
 }
 .skills__js {
-    width: 65%;
+    width: 85%;
 }
 .skills__git {
     width: 70%;
@@ -461,13 +461,13 @@ img {
     width: 45%;
 }
 .skills__redux {
-    width: 40%;
-}
-.skills__webpack {
     width: 30%;
 }
+.skills__webpack {
+    width: 40%;
+}
 .skills__scss {
-    width: 60%;
+    width: 80%;
 }
 .skills__node {
     width: 35%;
@@ -480,6 +480,9 @@ img {
 }
 .skills__mongo {
     width: 35%;
+}
+.skills__ember {
+    width: 50%;
 }
 
 .skills__close .skills__list {
